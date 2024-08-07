@@ -2,11 +2,11 @@
 
 este é o site que eu uso quando tem aula, oque eu quero fazer
 
- -tirar nota
+ - tirar nota
  
- -passar de ano
+ - passar de ano
  
- -aprender tecnologia (opcional)
+ - aprender tecnologia (opcional)
 
 
 ## SE ALGUEM QUISER ME CONTACTAR 📫
