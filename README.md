@@ -1,6 +1,6 @@
 ## OLA 🤡
 
-este é o site que eu uso quando tem aula, oque eu quero fazer
+este é o site que eu uso quando tem aula na [alura](https://www.alura.com.br) , oque eu quero fazer
 
  - tirar nota
  
