@@ -14,4 +14,5 @@ este é o site que eu uso quando tem aula, oque eu quero fazer
 0000111026818xsp@al.educacao.sp.gov.br
 
 
-![](https://tenor.com/pt-BR/view/steve-harvey-drinking-steve-harvey-head2seoker-drinking-party-gif-5069515457533912064)
+![](![image](https://github.com/user-attachments/assets/986d94a9-c2fa-4511-a04e-b7c651069050)
+)
