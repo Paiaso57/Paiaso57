@@ -2,11 +2,11 @@
 
 este é o site que eu uso quando tem aula na [alura](https://www.alura.com.br) , oque eu quero fazer:
 
- - tirar nota
+ - entender novos conhecimentos 
  
- - passar de ano
+ - trazer orgulho aos meus familiares 
  
- - aprender tecnologia (opcional)
+ - aprender tecnologia 
 
 
 ## SE ALGUEM QUISER ME CONTACTAR 📫
